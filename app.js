@@ -1,1 +1,2 @@
-console.log("testing")
+var a = 123
+console.log("testing", a)
